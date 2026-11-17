@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+cloudflared.exe
+dashboard_server.zip
+qr_code.png

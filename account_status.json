@@ -1,0 +1,65 @@
+{
+  "8338272258": {
+    "homer_equipped": true
+  },
+  "8338268034": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2086\u2087\u2085\u2087\u2084",
+    "account_id": "18856749715",
+    "region": "BD",
+    "homer_equipped": true
+  },
+  "acc:18856749714": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2083\u2084\u2086\u2081\u2083",
+    "account_id": "18856749714"
+  },
+  "8338268037": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2083\u2084\u2086\u2081\u2083",
+    "account_id": "18856749714",
+    "region": "BD",
+    "homer_equipped": true
+  },
+  "8338268042": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2086\u2086\u2087\u2085\u2082",
+    "account_id": "18856749712",
+    "region": "BD",
+    "homer_equipped": true
+  },
+  "8338268028": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2080\u2081\u2088\u2086\u2086",
+    "account_id": "18856749711",
+    "region": "BD",
+    "homer_equipped": true
+  },
+  "8338268035": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2081\u2089\u2087\u2085\u2086",
+    "account_id": "18856749720",
+    "region": "BD",
+    "homer_equipped": true
+  },
+  "acc:18856749712": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2086\u2086\u2087\u2085\u2082",
+    "account_id": "18856749712"
+  },
+  "acc:18856749711": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2080\u2081\u2088\u2086\u2086",
+    "account_id": "18856749711"
+  },
+  "acc:18856749720": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2081\u2089\u2087\u2085\u2086",
+    "account_id": "18856749720"
+  },
+  "acc:18856749715": {
+    "control": "run",
+    "nickname": "HS_DEVS\u2086\u2087\u2085\u2087\u2084",
+    "account_id": "18856749715"
+  }
+}
